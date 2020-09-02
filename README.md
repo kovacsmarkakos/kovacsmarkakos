@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Vue**
 
-- 👨‍💻 All of my projects are available at [https://kovacsmarkakos.github.io](kovacsmarkakos.github.io)
+- 👨‍💻 All of my projects are available at [kovacsmarkakos.github.io](https://kovacsmarkakos.github.io)
 
 - 📫 How to reach me **kovacs.mark.akos@gmail.com**
 
