@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A frontend developer from Budapest, Hungary.</h3>
 
-- 🌱 I’m currently learning **React and Vue**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [kovacsmarkakos.github.io](https://kovacsmarkakos.github.io)
 
