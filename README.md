@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
+<h1 align="center"Hello there! I'm Mark.</h1>
 <h3 align="center">A junior web developer from Budapest, Hungary.</h3>
 
 - 🌱 I’m currently learning **React**
