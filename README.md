@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Mark.</h1>
-<h3 align="center">A front-end web developer from Budapest, Hungary.</h3>
+<h3 align="center">A Frontend Web Developer from Budapest, Hungary.</h3>
 
 - 🔭 I’m currently working on [my portfolio website](https://github.com/kovacsmarkakos/markkovacs.com)
 
