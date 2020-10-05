@@ -1,11 +1,13 @@
 <h1 align="left">Hello there! I'm Mark.</h1>
 <h3 align="left">A Frontend Web Developer from Budapest, Hungary.</h3>
 
+- 🌐 Check out my [Website](https://markkovacs.com)
+
 - 🔭 I’m currently working on [my portfolio website](https://github.com/kovacsmarkakos/markkovacs.com)
 
 - 🌱 I’m currently learning **React**
 
-- 💻 All of my projects are available here on my github: [github.com/kovacsmarkakos](https://github.com/kovacsmarkakos)
+- 💻 All of my projects are available here: [Repositories](https://github.com/kovacsmarkakos?tab=repositories)
 
 - 📫 How to reach me **kovacs.mark.akos@gmail.com**
 
