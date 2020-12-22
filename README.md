@@ -3,10 +3,6 @@
 
 - 🌐 Check out my [Website](https://markkovacs.com)
 
-- 🔭 I’m currently working on [hacker-news-next](https://github.com/kovacsmarkakos/hacker-news-next)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 💻 All of my projects are available here: [Repositories](https://github.com/kovacsmarkakos?tab=repositories)
 
 - 📫 How to reach me **kovacs.mark.akos@gmail.com**
